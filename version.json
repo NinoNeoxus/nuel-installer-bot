@@ -1,0 +1,22 @@
+{
+    "version": "1.0.2",
+    "build": "2026010403",
+    "releaseDate": "2026-01-04",
+    "changelog": [
+        "🎉 Version 1.0 - INITIAL RELEASE",
+        "",
+        "✅ NUEL-INSTALLER BOT",
+        "   - Full VPS & Panel Management",
+        "   - Auto-Update System",
+        "   - CPU Monitoring",
+        "",
+        "✅ FEATURES",
+        "   - Pterodactyl Panel Integration",
+        "   - DigitalOcean VPS Control",
+        "   - DNS Management",
+        "",
+        "✅ BY @schnufle"
+    ],
+    "downloadUrl": "https://raw.githubusercontent.com/NinoNeoxus/nuel-installer-bot/main/latest.zip",
+    "minVersion": "1.0"
+}

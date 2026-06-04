@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Environment & Secret Config
+# JANGAN PERNAH commit file ini!
+db/.dev_config.json
+
+# Database files (data pribadi user)
+db/datavps.json
+db/guard_settings.json
+db/autoadd_members.json
+db/licenses.json
+db/redeem_codes.json
+db/redeem_users.json
+db/panel_settings.json
+db/owner_settings.json
+db/subdomain.json
+db/vps_data.json
+db/do_tokens.json
+
+# User data folders
+db/users/
+
+# RPG data
+db/rpg/
+
+# Zip files
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Session data (Baileys)
+baileys_auth_info/
+auth_info_baileys/
